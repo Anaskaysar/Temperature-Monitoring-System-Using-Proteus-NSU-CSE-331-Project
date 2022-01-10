@@ -25,7 +25,7 @@ The system is built around a PIC18f452 microcontroller, which is connected to an
 ### Methodology:
 This chapter explains how the system was developed and built in great detail. There are two primary components to the system. The virtual component of the systems, the circuit diagram, circuit simulation, and creating the PCB layout are discussed in the software development and hardware development sections, respectively. The hardware development is primarily concerned with the physical component. The power supply, temperature sensor, PIC18f452 microcontroller, display, and switching components make up the hardware design. With the aid of the program codes encoded in it, the PIC18f452, as the system's heart, regulates the system's actions in software design. The PIC18f452 source code is written in one of the most common high-level programming languages, especially C. This is owing to the simplicity with which it may be programmed compared to assembly language. The software is then compiled into hex (object code) for the microcontroller to utilize.
 ### Block Diagram: 
- <img src="images/Circuit Diagram.png">
+ <img src="images/Circuit_Diagram.png" width="220" height="240" >
 
 ### Hardware Requirements:
 •	PIC18f452 * 1
@@ -37,10 +37,10 @@ This chapter explains how the system was developed and built in great detail. Th
 
 ### Proteus Design:
 
- <img src="images/Final Project.png">
+ <img src="images/Final_Project.png" width="220" height="240" >
 
 ### Code Explanation: 
-  <img src="images/Code.png">
+  <img src="images/Code.png"width="220" height="240" >
   
 
 ### References:
